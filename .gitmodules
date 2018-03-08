@@ -19,6 +19,3 @@
 [submodule "ext/fribidi"]
 	path = ext/fribidi
 	url = https://github.com/Mashatan/fribidi.git
-[submodule "android"]
-	path = android
-	url = andoma@git.lonelycoder.com:movian-android.git
