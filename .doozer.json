@@ -3,7 +3,6 @@
   "targets": {
     "android": {
       "buildenv": "jessie-i386",
-      "submodules": ["android"],
       "builddeps": {
 
         "debs": [
